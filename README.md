@@ -1,1 +1,3 @@
 # netty-chat
+
+Quick and dirty chat example using netty...
